@@ -1,5 +1,6 @@
 Working Project:
-http://www.webizly.com/frontend-basic/
+https://github.com/kp731/front-end-for-me/
+
 
 This is based on this tutorial:
 
